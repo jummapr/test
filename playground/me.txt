@@ -1,0 +1,5 @@
+{{#user}
+Name: Jumma Hingorja
+Skills: HTML, CSS, javascript,Typescript, reactJs, NextJs,Tailwindcss, Redux,Nodejs, ExpressJs, Mongodb,MySql,redis database, Prisma,firbase,supabase,restApi, React Native
+Email: aarifhingorja4@gmail.com
+{{/user}}
